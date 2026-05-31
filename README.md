@@ -73,25 +73,25 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 
 ## 🛠 기술 스택
 
-| 분류 | 기술 |
-|------|------|
-| 개발환경 | Xcode, UIKit |
-| 데이터 | UserDefaults |
-| 위치 | CoreLocation |
-| 날씨 | OpenWeatherMap API |
-| AI | Gemini API (Google AI Studio) |
-| 사운드 | AVFoundation |
-| 알림 | UserNotifications |
+| 분류 | 기술 |  
+|------|------|  
+| 개발환경 | Xcode, UIKit |  
+| 데이터 | UserDefaults |  
+| 위치 | CoreLocation |  
+| 날씨 | OpenWeatherMap API |  
+| AI | Gemini API (Google AI Studio) |  
+| 사운드 | AVFoundation |  
+| 알림 | UserNotifications |  
 
 ---
 
 ## 📂 프로젝트 구조
-virtualCottage/
-├── HomeViewController.swift       # 홈 화면 (타이머, 투두, AI 팝업)
-├── SettingViewController.swift    # 설정 화면 (사운드, 알림, 지역)
-├── StatsViewController.swift      # 통계 화면
-├── TodoCell.swift                 # 투두 셀 커스텀
-└── resource/                      # 이미지, 사운드 리소스
+virtualCottage/  
+├── HomeViewController.swift       # 홈 화면 (타이머, 투두, AI 팝업)  
+├── SettingViewController.swift    # 설정 화면 (사운드, 알림, 지역)  
+├── StatsViewController.swift      # 통계 화면  
+├── TodoCell.swift                 # 투두 셀 커스텀  
+└── resource/                      # 이미지, 사운드 리소스  
 
 ## 🎬 시연 영상
 [유튜브 링크]
