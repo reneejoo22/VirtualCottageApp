@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  virtualCottage
 //
-//  Created by 하승한 on 5/19/26.
+//  Created by  on 5/19/26.
 //
 
 import UIKit
