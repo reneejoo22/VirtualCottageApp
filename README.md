@@ -51,7 +51,7 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 ---
 
 ### ⏱ 포모도로 타이머  
-<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 18" src="https://github.com/user-attachments/assets/1f7a3842-5568-4bc0-baba-3241007885b0" />  
+<img width="250" height="600" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 56" src="https://github.com/user-attachments/assets/0ad7877d-930f-4402-87bd-d446ed296cab" />
 
 [타이머 화면 이미지]  
 
