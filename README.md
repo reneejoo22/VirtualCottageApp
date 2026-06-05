@@ -11,8 +11,9 @@
 | 언어 | Swift |  
 
 
-<img width="250" height="500" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 04 28" src="https://github.com/user-attachments/assets/0f05721e-2735-4dd4-9339-2e5de452bb21" />    
-[홈화면 이미지]  
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 04 28" src="https://github.com/user-attachments/assets/0f05721e-2735-4dd4-9339-2e5de452bb21" />     
+
+[홈화면 이미지]    
 
 ## 📱 소개
 Smart Virtual Cottage는 공부·작업 집중 환경을 제공하는 iOS 앱입니다.
@@ -25,8 +26,9 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 ## ✨ 주요 기능
 
 ### 🌤 실시간 날씨 연동 배경  
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 06 33" src="https://github.com/user-attachments/assets/cedd44e2-71bd-46cb-b2d8-6828c1f37edc" />  
-[안개 낀 날씨일 때]  
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 06 33" src="https://github.com/user-attachments/assets/cedd44e2-71bd-46cb-b2d8-6828c1f37edc" />  
+
+[안개 낀 날씨일 때]     
 
 [날씨별 배경 이미지 - 맑음/비/눈/안개 4장 나란히]
 
@@ -39,7 +41,8 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 ---
 
 ### 🤖 Gemini AI 집중 시간 추천
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 18" src="https://github.com/user-attachments/assets/1f7a3842-5568-4bc0-baba-3241007885b0" />  
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 18" src="https://github.com/user-attachments/assets/1f7a3842-5568-4bc0-baba-3241007885b0" />    
+
 [AI 팝업 이미지]  
 
 투두리스트 항목을 Gemini AI가 분석하여 적정 집중 시간과 세션 수를 자동 추천합니다.
@@ -48,7 +51,8 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 ---
 
 ### ⏱ 포모도로 타이머  
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 18" src="https://github.com/user-attachments/assets/1f7a3842-5568-4bc0-baba-3241007885b0" />  
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 36 18" src="https://github.com/user-attachments/assets/1f7a3842-5568-4bc0-baba-3241007885b0" />  
+
 [타이머 화면 이미지]  
 
 - 원형 프로그레스 바로 남은 시간 시각화
@@ -82,7 +86,7 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 ---
 
 ### ⚙️ 설정
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 43 39" src="https://github.com/user-attachments/assets/482d7c53-16fb-4e08-b1d3-62b8aa71e4fa" />  
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 43 39" src="https://github.com/user-attachments/assets/482d7c53-16fb-4e08-b1d3-62b8aa71e4fa" />  
 
 [설정 화면 이미지]
 
@@ -91,8 +95,8 @@ PC 전용으로만 존재하던 Virtual Cottage의 감성적인 코티지 분위
 - 날씨 지역 변경 (현재 위치 / 런던 / 체라푼지 / 마나우스 / 무르만스크 / 두바이 / 샌프란시스코 / 서울 / 등등)
 
 
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 49 59" src="https://github.com/user-attachments/assets/dd55058d-ddd6-4be7-b2e7-4325d5045298" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 49 55" src="https://github.com/user-attachments/assets/9285c571-1524-4992-9d69-8bea9c5036b5" />
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 49 59" src="https://github.com/user-attachments/assets/dd55058d-ddd6-4be7-b2e7-4325d5045298" />
+<img width="250" height="650" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 49 55" src="https://github.com/user-attachments/assets/9285c571-1524-4992-9d69-8bea9c5036b5" />
 
 [세션중 어플을 나가면 알림이 뜸]
 ---
