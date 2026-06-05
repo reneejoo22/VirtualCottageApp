@@ -11,7 +11,7 @@
 | 언어 | Swift |  
 
 
-<img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 04 28" src="https://github.com/user-attachments/assets/0f05721e-2735-4dd4-9339-2e5de452bb21" />    
+<img width="250" height="500" alt="Simulator Screenshot - iPhone 17 - 2026-06-05 at 23 04 28" src="https://github.com/user-attachments/assets/0f05721e-2735-4dd4-9339-2e5de452bb21" />    
 [홈화면 이미지]  
 
 ## 📱 소개
