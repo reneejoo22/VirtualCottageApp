@@ -1,7 +1,11 @@
 
-# VirtualCottageApp
-# 🏡 Smart Virtual Cottage
+# 🏡 Virtual Cottage App
 > 나만의 스마트 집중 환경 iOS 앱
+
+
+## 🎬 시연 영상
+[유튜브 링크] https://youtu.be/DkoLfmEDAYQ?si=HimUEBRq4SHIDNj- 
+
 
 ## 🖥 개발 환경
 | 항목 | 버전 |  
@@ -122,7 +126,4 @@ virtualCottage/
 ├── StatsViewController.swift      # 통계 화면  
 ├── TodoCell.swift                 # 투두 셀 커스텀  
 └── resource/                      # 이미지, 사운드 리소스  
-
-## 🎬 시연 영상
-[유튜브 링크]
 
