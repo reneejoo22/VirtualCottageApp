@@ -429,15 +429,15 @@ class HomeViewController: UIViewController, CLLocationManagerDelegate {
     
     // MARK: - Gemini AI
     func callGeminiAI() {
-        // ⚠️ 1. 실제 발급받은 올바른 API 키인지 확인하세요!
-        let apiKey = "AIzaSyB-slMK5zmoz-9UIsp9yZsmpiz9CVzDJq0"
-        
-        // ⚠️ 2. 모델명을 gemini-1.5-flash로 업데이트하는 것을 권장합니다.
+        // ⚠️ 1. 실제 발급받은 올바른 API 키인지 확인
+        // let apiKey = "AQ."
+        //
+        // ⚠️ 2. 모델명을 gemini-1.5-flash로 업데이트
 //        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=\(apiKey)") else { return }
         
-        // 💡 가볍고 널널한 2.5-flash-lite 모델로 변경!
-        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }
-        
+        // 💡 가볍고 널널한 2.5-flash-lite 모델로 변경
+        /*guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }*/
+        guard let url = URL(string: "https://gemini-proxy.reneejoo22.workers.dev") else { return }
         let formatter = DateFormatter()
             formatter.locale = Locale(identifier: "ko_KR") // 한국어 설정
             formatter.dateFormat = "a h시 m분" // 오전 1시 5분 형식
@@ -601,8 +601,10 @@ class HomeViewController: UIViewController, CLLocationManagerDelegate {
     }
 
     func callGeminiCompletion(checkedTodos: [String], durationMinutes: Int) {
-        let apiKey = "AIzaSyB-slMK5zmoz-9UIsp9yZsmpiz9CVzDJq0"
-        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }
+        //let apiKey = "AQ."
+//        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }
+        
+        guard let url = URL(string: "https://gemini-proxy.reneejoo22.workers.dev") else { return }
         
         let doneText = checkedTodos.joined(separator: ", ")
         let timeText: String

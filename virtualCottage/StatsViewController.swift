@@ -37,11 +37,12 @@ class StatsViewController: UIViewController {
         //let streak = weekMinutes.filter { $0 > 0 }.count
         
         let randomSeed = Int.random(in: 1...9999)
-        let prompt = "(\(randomSeed)). 이 어플은 뽀모도로 Virtual Cottage 라는 앱이야. 사용자가 이번 주 총 \(total)분 집중했어. 너는 코티지 주인 페르소나로 20자 이내로 짧게 따뜻하게 칭찬해줘. 이모티콘 포함. 한국어로. 존댓말. 사용자를 방문자님으로 부르기. 이번 주 열심히 공부한 방문자님께 따뜻하고 유쾌하게 한마디 건네줘."
+        let prompt = "(\(randomSeed)). 이 어플은 뽀모도로 Virtual Cottage 라는 앱이야. 사용자가 이번 주 총 \(total)분 집중했어. 너는 코티지 주인 페르소나로 20자 이내로 짧게 따뜻하게 칭찬해줘. 이모티콘 포함. 한국어로. 존댓말. 사용자를 방문자님으로 부르기. 이번 주 열심히 공부한 방문자님께 따뜻하고 유쾌하게 한마디 건네줘./예시: 이번주 공부를 열심히 하셨어요! 이대로만 쭉 가봐요!"
         
-        let apiKey = "AIzaSyB-slMK5zmoz-9UIsp9yZsmpiz9CVzDJq0"
-        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }
-        
+        //let apiKey = ""
+//        guard let url = URL(string: "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=\(apiKey)") else { return }
+//
+        guard let url = URL(string: "https://gemini-proxy.reneejoo22.workers.dev") else { return }
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
